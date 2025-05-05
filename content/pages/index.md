@@ -73,11 +73,32 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      *When I saw her eyes I was transfixed*
+
+      *They are like two cups of wine that are ablaze*
+
+      *Are these eyes? or the two doors of wine-house*
+
+      *Do I call them eyes or a part of my dreams*
+
+      When lowered, they turned into modesty, pure and shy;
+
+      When lifted, they rose like a prayer to the sky.
+
+      When they rose, then dipped—they became a graceful art;
+
+      When they dipped, then rose—they struck like a punishment.
+
+      *Eyes, in which the sky and earth are captured*
+
+      Narcissus-like beauty, lined in smoky haze.
+
+      It's not possible to praise the beauty of my beloved
+
+
+
+
     actions: []
     media:
       title: Title of the video
