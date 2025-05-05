@@ -4,7 +4,11 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: |-
+        What need is there to speak your heart to everyone?
+        I never truly learned what it means to love someone
+        At times, I weep when new seasons unfold,
+        At times, I go searching for friendships of old.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
