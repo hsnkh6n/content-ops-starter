@@ -72,7 +72,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: |+
       *When I saw her eyes I was transfixed*
 
